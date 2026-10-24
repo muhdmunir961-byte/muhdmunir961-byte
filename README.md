@@ -1,33 +1,45 @@
 <div align="center">
-  <img src="assets/editorial-cover.svg" width="100%" alt="Muhd Munir — Software Engineering, Applied AI, and Product Thinking" />
+  <a href="https://munir-signal-60.vercel.app/"><img src="assets/editorial-cover.svg" width="100%" alt="Muhd Munir — Software, Systems and Applied AI" /></a>
 </div>
 
-### A little about me
+### Engineering with intent.
 
-I’m **Muhd Munir**, a software and AI builder, and **Co-Founder at AWA Teknologi Indonesia**. My background is in automotive engineering; these days I spend more time building software, experimenting with applied AI, and connecting hardware to the web.
+I'm **Muhd Munir** — a software and AI builder, with a foundation in automotive engineering and a focus on turning technical ideas into things people can actually use. I'm also **Co-Founder of AWA Teknologi Indonesia**.
 
-I like interfaces that make sense, systems that are easy to maintain, and products that do something useful outside a demo.
+I care about the work beyond a successful demo: clear interfaces, understandable systems, reliable feedback, and choices that make a product easier to maintain.
 
-**What I'm exploring:** full-stack systems · AI-assisted workflows · real-time interfaces · ESP32 & telemetry · developer tools.
+**[Explore the interactive portfolio ↗](https://munir-signal-60.vercel.app/)** · **[Visit AWA ↗](https://awatech.my.id)**
 
 ---
+
+### What I work on
+
+| Domain | Engineering focus |
+| --- | --- |
+| **Software systems** | APIs, full-stack interfaces, data flows, system boundaries and predictable behavior. |
+| **Applied AI** | LLM integrations, agent workflows, scoped tools, structured outputs and human oversight. |
+| **Connected systems** | ESP32, real-time telemetry, WebSockets, monitoring interfaces and useful alerts. |
+
+### How I approach a build
+
+**Understand the constraints → design the boundaries → build a useful slice → test the failure cases → iterate.**
+
+I work with technologies such as **TypeScript, JavaScript, React, Next.js, Node.js, Python, PostgreSQL, WebSockets and ESP32**. The goal isn't to collect tools; it's to choose the ones that suit the problem.
 
 ### AWA Teknologi Indonesia
 
-<a href="https://awatech.my.id"><img src="assets/awa-logo.webp" width="148" alt="AWA Teknologi logo" /></a>
+<a href="https://awatech.my.id"><img src="assets/awa-logo.webp" width="130" alt="AWA Teknologi company logo" /></a>
 
-Building practical technology through a mix of engineering, product decisions, and iteration. [Visit AWA ↗](https://awatech.my.id)
+My role as Co-Founder brings together product decisions, software engineering and the practical work of building. [Learn more about AWA ↗](https://awatech.my.id)
 
-### Take a break. Play a game.
+### Interactive lab: SIGNAL / 60
 
-I made **SIGNAL / 60**: a tiny 60-second arcade game. Catch blue signals, avoid amber interference. Built for both **touch** and **keyboard**.
+A small Canvas game built for touch and keyboard: collect blue signals, avoid amber interference, and play a 60-second round. No sign-in and no remote leaderboard.
 
-**[Play SIGNAL / 60 ↗](https://munir-signal-60.vercel.app/)** &nbsp;·&nbsp; [View the source](docs/index.html)
+**[Play SIGNAL / 60 ↗](https://munir-signal-60.vercel.app/#lab)** · [Explore the source](docs/)
 
-<sub>GitHub READMEs cannot execute interactive JavaScript. The game opens in a dedicated page.</sub>
+The portfolio also has a **scenario-based architecture explorer** and a **Ctrl/⌘ + K** quick-navigation palette. Interactive functionality lives on the website; GitHub READMEs do not run JavaScript.
 
 ---
 
-**Keep in touch:** [AWA Teknologi](https://awatech.my.id) · [GitHub](https://github.com/muhdmunir961-byte)
-
-*Build with intent. Keep learning.*
+<sub>Software, AI, and systems thinking. Build with intent. Keep learning.</sub>
