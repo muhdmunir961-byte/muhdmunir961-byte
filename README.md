@@ -22,7 +22,7 @@ Building practical technology through a mix of engineering, product decisions, a
 
 I made **SIGNAL / 60**: a tiny 60-second arcade game. Catch blue signals, avoid amber interference. Built for both **touch** and **keyboard**.
 
-**[Play SIGNAL / 60 ↗](https://munir-signal-60-muhdmunir961-bytes-projects.vercel.app/)** &nbsp;·&nbsp; [View the source](docs/index.html)
+**[Play SIGNAL / 60 ↗](https://munir-signal-60.vercel.app/)** &nbsp;·&nbsp; [View the source](docs/index.html)
 
 <sub>GitHub READMEs cannot execute interactive JavaScript. The game opens in a dedicated page.</sub>
 
