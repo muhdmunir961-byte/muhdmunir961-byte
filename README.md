@@ -1,7 +1,7 @@
 <!--
-  MUHD MUNIR — Engineering profile / edition 09.5
-  Identity-led, self-hosted motion artwork, reduced-motion support.
-  No fake stats, no third-party widgets, no public repository showcase.
+  MUHD MUNIR — Founder HUD Edition
+  Self-hosted SVG visuals. Premium motion. Reduced-motion friendly.
+  No fake stats. No repository showcase. No AI-slop filler.
 -->
 
 <div align="center">
@@ -9,20 +9,24 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
     <img src="assets/hero-light.svg" width="100%" alt="Muhd Munir — Software and AI Engineer, Co-Founder of AWA Teknologi Indonesia" />
   </picture>
+
   <br />
   <br />
+
   <a href="https://awatech.my.id"><strong>AWA TECHNOLOGY ↗</strong></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="#the-engineer"><strong>ABOUT ↘</strong></a>
+  <a href="#01--the-engineer"><strong>ABOUT ↘</strong></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="#engineering-in-practice"><strong>EXPERTISE ↘</strong></a>
+  <a href="#03--engineering-in-practice"><strong>EXPERTISE ↘</strong></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="#connect"><strong>CONNECT ↘</strong></a>
+  <a href="#06--connect"><strong>CONNECT ↘</strong></a>
+
   <br />
   <br />
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/signal-dark.svg" />
-    <img src="assets/signal-light.svg" width="100%" alt="Research · Design · Engineer · Intelligence · Deploy · Evolve" />
+    <img src="assets/signal-light.svg" width="100%" alt="Research, Design, Engineer, Automate, Deploy, Evolve" />
   </picture>
 </div>
 
@@ -32,11 +36,11 @@
 
 I’m **Muhd Munir** — a **Software & AI Engineer** and **Co-Founder of AWA Teknologi Indonesia**.
 
-I’m drawn to problems that sit between **people, products, and complex systems**. I build across web applications, applied AI, automation, cloud services, and connected devices — with an eye for how everything works *together*, not just how one feature looks in isolation.
+I build software systems, AI workflows, and connected products that are meant to be **used**, not just demoed. My interests sit between **engineering, product thinking, automation, and real-world execution**.
 
-My background in **automotive engineering** brings a useful perspective: engineering decisions have consequences in the real world. Interfaces should communicate clearly. Systems should recover predictably. And good technology should make difficult things easier to do.
+My background in **automotive engineering** shapes how I work: solve the actual problem, make the system understandable, and build with the real environment in mind.
 
-> **A principle I build by:** Make sophisticated engineering feel simple to the person using it.
+> **My rule:** make sophisticated engineering feel simple to the person using it.
 
 <br />
 
@@ -49,11 +53,9 @@ My background in **automotive engineering** brings a useful perspective: enginee
 
 <br />
 
-**Co-Founder — AWA Teknologi Indonesia**
+At **AWA Teknologi Indonesia**, I’m most interested in the engineering side of building products: **systems design, software architecture, AI-enabled workflows, automation, and delivery**.
 
-For me, being a founder means thinking beyond the code: defining worthwhile problems, balancing constraints, choosing practical architectures, and turning early concepts into useful experiences.
-
-The work I’m interested in spans **software platforms, AI-enabled workflows, automation, and product engineering**. I value technology that is thoughtfully designed, realistic to operate, and capable of evolving with the people who use it.
+For me, being a founder is not only about ideas. It is about making decisions under constraints, choosing practical paths, and turning concepts into tools that people can actually rely on.
 
 **Explore the company:** [awatech.my.id ↗](https://awatech.my.id)
 
@@ -63,19 +65,17 @@ The work I’m interested in spans **software platforms, AI-enabled workflows, a
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg" />
-  <img src="assets/focus-light.svg" width="100%" alt="Four engineering focus areas: AI, software, cloud and IoT" />
+  <img src="assets/focus-light.svg" width="100%" alt="Four active branches: Applied AI, Software Systems, Cloud and Ops, Connected Tech" />
 </picture>
 
 <br />
 
-| Discipline | Where I focus |
+| Discipline | Focus |
 | :--- | :--- |
-| **Applied AI** | LLM integrations, practical agents, tool orchestration, automation and human-in-the-loop workflows |
-| **Software systems** | Backend services, APIs, data flows, full-stack web platforms and thoughtful frontend experiences |
-| **Cloud & infrastructure** | Deployment pipelines, service configuration, reliability, real-time connections and operational workflows |
-| **Connected engineering** | ESP32-based systems, device telemetry, safety-oriented interfaces and monitoring dashboards |
-
-I care as much about the **experience of using a system** as I do about its architecture. A good result needs both.
+| **Applied AI** | LLM integrations, practical agents, orchestration, and human-in-the-loop workflows |
+| **Software systems** | Full-stack applications, APIs, data flows, and frontend experiences that stay clear under complexity |
+| **Cloud & operations** | Deployment, service configuration, reliability, and real-time communication |
+| **Connected tech** | ESP32-based interfaces, telemetry, monitoring dashboards, and hardware/software feedback loops |
 
 <br />
 
@@ -83,21 +83,21 @@ I care as much about the **experience of using a system** as I do about its arch
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
-  <img src="assets/terminal-light.svg" width="100%" alt="Animated engineering terminal with practical principles and build cycle" />
+  <img src="assets/terminal-light.svg" width="100%" alt="Mission console with principles and shipping loop" />
 </picture>
 
 <br />
 
-The best software doesn’t come from using the most tools. It comes from understanding the problem, making deliberate trade-offs, and iterating until the experience makes sense.
+I care about systems that stay **readable, reliable, and useful**. Tools matter, but clear thinking matters more.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img src="assets/stack-light.svg" width="100%" alt="Technology toolkit spanning interfaces, AI and systems infrastructure" />
+  <img src="assets/stack-light.svg" width="100%" alt="Toolkit loadout for interfaces, intelligence, and systems" />
 </picture>
 
 <br />
 
-**Also working with:** JavaScript · Fastify · Prisma · Arduino / C++ · WebSockets · Git & GitHub · Cloud deployment tooling.
+**Also working with:** JavaScript · Fastify · Prisma · Arduino / C++ · WebSockets · Git & GitHub · cloud deployment tooling.
 
 *I choose the stack to suit the constraints — not the other way around.*
 
@@ -107,46 +107,49 @@ The best software doesn’t come from using the most tools. It comes from unders
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/network-dark.svg" />
-  <img src="assets/network-light.svg" width="100%" alt="Engineering process: discover, architect, build, validate, iterate" />
+  <img src="assets/network-light.svg" width="100%" alt="Progress route: discover, architect, build, validate, iterate" />
 </picture>
 
 <br />
 
 <table>
   <tr>
-    <td width="33%" valign="top"><strong>Clarity first.</strong><br /><br />Understand the user, the context, and the real cost of a bad assumption.</td>
-    <td width="33%" valign="top"><strong>Architecture with intent.</strong><br /><br />Prefer legible systems, measured complexity, and maintainable choices.</td>
-    <td width="33%" valign="top"><strong>Delivery matters.</strong><br /><br />Test the edges, learn from feedback, and ship improvements that count.</td>
+    <td width="33%" valign="top"><strong>Clarity first.</strong><br /><br />Understand the user, the environment, and the cost of a bad assumption.</td>
+    <td width="33%" valign="top"><strong>Architecture with intent.</strong><br /><br />Prefer systems that stay legible, maintainable, and practical to operate.</td>
+    <td width="33%" valign="top"><strong>Delivery matters.</strong><br /><br />Ship, observe, refine, and keep improving what actually matters.</td>
   </tr>
 </table>
 
 <br />
 
-### What I’m exploring now
+### Current focus
 
-- **Agentic AI:** systems that use tools responsibly to assist with actual work.
-- **Real-time experiences:** clear, responsive interfaces connected to live information.
-- **Engineering platforms:** ways to simplify development, deployment, and operations.
-- **Hardware meets software:** translating device signals into useful human feedback.
+- **Agentic AI** — workflows that assist real work instead of generating noise.
+- **Real-time products** — interfaces connected to live signals and useful feedback.
+- **Engineering platforms** — cleaner development, deployment, and system operations.
+- **Hardware × software** — turning device data into decisions people can act on.
 
 <br />
 
 ## 06 / Connect
 
-I’m interested in conversations about **software architecture, applied AI, thoughtful products, automation, and building technology across disciplines**.
+I’m interested in conversations around **software architecture, applied AI, thoughtful products, automation, and connected systems**.
 
 <div align="center">
   <a href="https://awatech.my.id"><strong>AWA Teknologi Indonesia ↗</strong></a>
   &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/muhdmunir961-byte"><strong>GitHub ↗</strong></a>
+
   <br />
   <br />
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
     <img src="assets/footer-light.svg" width="100%" alt="Let's make it useful — Muhd Munir" />
   </picture>
+
   <br />
   <sub>ENGINEERING WITH INTENT · ALWAYS LEARNING · ALWAYS BUILDING</sub>
 </div>
 
-<!-- README deliberately does not feature repository cards, rankings, or fabricated performance metrics. -->
+<!-- No repository showcase by request. -->
