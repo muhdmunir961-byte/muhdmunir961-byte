@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-label="Keep building, keep refining">
+<style>.dot{animation:glow 3s ease-in-out infinite}@keyframes glow{0%,100%{opacity:.25}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.dot{animation:none}}</style>
+<rect x="1" y="1" width="1198" height="82" rx="14" fill="#FAF7F1" stroke="#D9D5CB"/>
+<circle class="dot" cx="43" cy="42" r="5" fill="#B95F3B"/>
+<path d="M65 42H398" stroke="#D9D5CB"/><path d="M802 42H1135" stroke="#D9D5CB"/>
+<text x="600" y="47" fill="#5E615C" text-anchor="middle" style="font:14px Arial, sans-serif;letter-spacing:2px">KEEP BUILDING · KEEP REFINING</text>
+</svg>
