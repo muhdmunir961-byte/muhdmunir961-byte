@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Muhd Munir. Software Engineering, Applied AI, and Product Thinking.">
+<rect width="1200" height="380" rx="6" fill="#F5F3ED"/>
+<path d="M48 52H1152M48 329H1152" fill="none" stroke="#C9D2D6"/>
+<circle cx="61" cy="35" r="5" fill="#176BD5"/>
+<text x="77" y="40" fill="#50677C" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600" letter-spacing="3">ENGINEER / MAKER / CO-FOUNDER</text>
+<text x="47" y="164" fill="#152941" font-family="Georgia,'Times New Roman',serif" font-size="99" letter-spacing="-4">Muhd Munir<tspan fill="#176BD5">.</tspan></text>
+<text x="53" y="220" fill="#385269" font-family="Arial,Helvetica,sans-serif" font-size="21">Software engineering, applied AI, and products that work beyond the demo.</text>
+<rect x="51" y="268" width="42" height="5" rx="2" fill="#176BD5"/>
+<text x="106" y="276" fill="#566C7B" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2">BUILD WITH INTENT</text>
+<g transform="translate(1064 176)"><circle r="92" fill="none" stroke="#CED8DB" stroke-width="1"/><circle r="72" fill="none" stroke="#176BD5" stroke-width="1.5"/><path d="M-51 52L0-54L51 52M-26 0H26" stroke="#152941" stroke-width="7" fill="none" stroke-linecap="square"/><circle cx="52" cy="-52" r="7" fill="#176BD5"/></g>
+<text x="52" y="354" fill="#62788A" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.5">A PERSONAL SYSTEMS JOURNAL</text>
+<text x="1010" y="354" fill="#62788A" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.5">EST. IN PROGRESS</text></svg>
