@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 448" width="1200" height="448" role="img" aria-label="AWA Teknologi Indonesia co-founder title and animated signal rings"><defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#090F15"/><stop offset="1" stop-color="#111B22"/></linearGradient>
+ <linearGradient id="beam" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#77E4CC" stop-opacity="0"/><stop offset=".48" stop-color="#77E4CC" stop-opacity=".95"/><stop offset="1" stop-color="#77E4CC" stop-opacity="0"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#1D9A8B" stop-opacity=".25"/><stop offset="1" stop-color="#1D9A8B" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#29414B" stroke-width=".55"/></pattern>
+ <clipPath id="clip"><rect x="1" y="1" width="1198" height="446" rx="22"/></clipPath></defs><style>
+ .sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.serif{font-family:Georgia,'Times New Roman',serif}
+ .spin{transform-origin:960px 270px;animation:spin 36s linear infinite}.spinfast{transform-origin:960px 270px;animation:spin 18s linear infinite reverse}
+ .pulse{animation:pulse 3.4s ease-in-out infinite}.pulse2{animation:pulse 3.4s 1.7s ease-in-out infinite}
+ .blink{animation:blink 1.3s steps(1) infinite}.scan{animation:scan 8s ease-in-out infinite alternate}
+ .float{animation:float 4.5s ease-in-out infinite}.float2{animation:float 5.5s ease-in-out infinite reverse}
+ .dash{stroke-dasharray:6 12;animation:dash 15s linear infinite}.dashfast{stroke-dasharray:3 12;animation:dash 7s linear infinite}
+ .tracer{stroke-dasharray:22 450;animation:tracer 7s linear infinite}.sweep{animation:sweep 6s ease-in-out infinite alternate}
+ .rise{animation:rise 1.7s ease-out both}
+ .ticker{animation:slide 20s linear infinite}
+ @keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{0%,100%{opacity:.27}50%{opacity:1}}
+ @keyframes blink{50%{opacity:0}}@keyframes scan{to{transform:translateX(240px)}}
+ @keyframes float{50%{transform:translateY(-7px)}}@keyframes dash{to{stroke-dashoffset:-180}}
+ @keyframes tracer{to{stroke-dashoffset:-472}}@keyframes sweep{to{transform:translateX(130px)}}
+ @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+ @keyframes slide{to{transform:translateX(-490px)}}
+ @media(prefers-reduced-motion:reduce){.spin,.spinfast,.pulse,.pulse2,.blink,.scan,.float,.float2,.dash,.dashfast,.tracer,.sweep,.rise,.ticker{animation:none!important}}
+ </style>
+ <rect x="1" y="1" width="1198" height="446" rx="22" fill="url(#bg)" stroke="#29414B" stroke-width="1.5"/>
+ <g clip-path="url(#clip)"><rect x="0" y="0" width="1200" height="448" fill="url(#grid)" opacity=".46"/><circle cx="991" cy="211" r="225" fill="url(#halo)" class="pulse"/><circle cx="1024" cy="216" r="80" fill="none" stroke="#77E4CC" opacity=".25" stroke-width="1.2"/><circle cx="1024" cy="216" r="102" fill="none" stroke="#29414B" opacity=".5" stroke-width="1.2"/><circle cx="1024" cy="216" r="124" fill="none" stroke="#77E4CC" opacity=".25" stroke-width="1.2"/><circle cx="1024" cy="216" r="146" fill="none" stroke="#29414B" opacity=".5" stroke-width="1.2"/><circle cx="1024" cy="216" r="168" fill="none" stroke="#77E4CC" opacity=".25" stroke-width="1.2"/><circle cx="1024" cy="216" r="190" fill="none" stroke="#29414B" opacity=".5" stroke-width="1.2"/><circle cx="1024" cy="216" r="212" fill="none" stroke="#77E4CC" opacity=".25" stroke-width="1.2"/><circle cx="1024" cy="216" r="234" fill="none" stroke="#29414B" opacity=".5" stroke-width="1.2"/><g class="spin" style="transform-origin:1024px 216px"><circle cx="1024" cy="216" r="168" fill="none" stroke="#77E4CC" stroke-width="3" stroke-dasharray="20 90" opacity=".75"/></g><rect x="66" y="52" width="174" height="35" rx="17" fill="#0C272A" stroke="#77E4CC" stroke-opacity=".5"/><text x="87" y="75" fill="#77E4CC" font-size="14" font-weight="700" class="mono" letter-spacing="2">CO-FOUNDER</text><text x="65" y="152" fill="#77E4CC" font-size="25" font-weight="700" class="mono" letter-spacing="10">AWA</text><text x="64" y="228" fill="#ECF4F2" font-size="63" font-weight="700" class="sans" letter-spacing="-1.5">TEKNOLOGI</text><text x="66" y="301" fill="#ECF4F2" font-size="63" font-weight="700" class="sans" letter-spacing="-1.5">INDONESIA</text><path d="M66 330L689 330" stroke="#29414B" stroke-width="1" opacity="1" fill="none"/><text x="68" y="368" fill="#92AAA9" font-size="20" font-weight="400" class="sans" >Founder mindset. Engineer execution.</text><text x="68" y="401" fill="#77E4CC" font-size="14" font-weight="700" class="mono" letter-spacing="1.8">A PERSONAL INTRODUCTION  /  2026</text></g></svg>

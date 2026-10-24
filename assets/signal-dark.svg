@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="Animated ticker listing software engineering, artificial intelligence, cloud, automation, product thinking"><defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#090F15"/><stop offset="1" stop-color="#111B22"/></linearGradient>
+ <linearGradient id="beam" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#77E4CC" stop-opacity="0"/><stop offset=".48" stop-color="#77E4CC" stop-opacity=".95"/><stop offset="1" stop-color="#77E4CC" stop-opacity="0"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#1D9A8B" stop-opacity=".25"/><stop offset="1" stop-color="#1D9A8B" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#29414B" stroke-width=".55"/></pattern>
+ <clipPath id="clip"><rect x="1" y="1" width="1198" height="88" rx="12"/></clipPath></defs><style>
+ .sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.serif{font-family:Georgia,'Times New Roman',serif}
+ .spin{transform-origin:960px 270px;animation:spin 36s linear infinite}.spinfast{transform-origin:960px 270px;animation:spin 18s linear infinite reverse}
+ .pulse{animation:pulse 3.4s ease-in-out infinite}.pulse2{animation:pulse 3.4s 1.7s ease-in-out infinite}
+ .blink{animation:blink 1.3s steps(1) infinite}.scan{animation:scan 8s ease-in-out infinite alternate}
+ .float{animation:float 4.5s ease-in-out infinite}.float2{animation:float 5.5s ease-in-out infinite reverse}
+ .dash{stroke-dasharray:6 12;animation:dash 15s linear infinite}.dashfast{stroke-dasharray:3 12;animation:dash 7s linear infinite}
+ .tracer{stroke-dasharray:22 450;animation:tracer 7s linear infinite}.sweep{animation:sweep 6s ease-in-out infinite alternate}
+ .rise{animation:rise 1.7s ease-out both}
+ .ticker{animation:slide 20s linear infinite}
+ @keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{0%,100%{opacity:.27}50%{opacity:1}}
+ @keyframes blink{50%{opacity:0}}@keyframes scan{to{transform:translateX(240px)}}
+ @keyframes float{50%{transform:translateY(-7px)}}@keyframes dash{to{stroke-dashoffset:-180}}
+ @keyframes tracer{to{stroke-dashoffset:-472}}@keyframes sweep{to{transform:translateX(130px)}}
+ @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+ @keyframes slide{to{transform:translateX(-490px)}}
+ @media(prefers-reduced-motion:reduce){.spin,.spinfast,.pulse,.pulse2,.blink,.scan,.float,.float2,.dash,.dashfast,.tracer,.sweep,.rise,.ticker{animation:none!important}}
+ </style>
+ <rect x="1" y="1" width="1198" height="88" rx="12" fill="url(#bg)" stroke="#29414B" stroke-width="1.5"/>
+ <g clip-path="url(#clip)"><rect x="0" y="0" width="1200" height="90" fill="#0C272A" opacity=".65"/><path d="M0 8L1200 8" stroke="#29414B" stroke-width="1" opacity="1" fill="none"/><path d="M0 82L1200 82" stroke="#29414B" stroke-width="1" opacity="1" fill="none"/><g class="ticker"><circle cx="30" cy="45" r="5" fill="#77E4CC" class="pulse"/><text x="48" y="52" fill="#ECF4F2" font-size="17" font-weight="700" class="mono" letter-spacing="1.15">SOFTWARE ENGINEERING</text><circle cx="350" cy="45" r="5" fill="#77E4CC" class="pulse"/><text x="368" y="52" fill="#ECF4F2" font-size="17" font-weight="700" class="mono" letter-spacing="1.15">ARTIFICIAL INTELLIGENCE</text><circle cx="706" cy="45" r="5" fill="#77E4CC" class="pulse"/><text x="724" y="52" fill="#ECF4F2" font-size="17" font-weight="700" class="mono" letter-spacing="1.15">SYSTEM DESIGN</text><circle cx="942" cy="45" r="5" fill="#77E4CC" class="pulse"/><text x="960" y="52" fill="#ECF4F2" font-size="17" font-weight="700" class="mono" letter-spacing="1.15">CLOUD INFRASTRUCTURE</text><circle cx="1262" cy="45" r="5" fill="#77E4CC" class="pulse"/><text x="1280" y="52" fill="#ECF4F2" font-size="17" font-weight="700" class="mono" letter-spacing="1.15">AUTOMATION</text><circle cx="1462" cy="45" r="5" fill="#77E4CC" class="pulse"/><text x="1480" y="52" fill="#ECF4F2" font-size="17" font-weight="700" class="mono" letter-spacing="1.15">PRODUCT THINKING</text><circle cx="1734" cy="45" r="5" fill="#77E4CC" class="pulse"/><text x="1752" y="52" fill="#ECF4F2" font-size="17" font-weight="700" class="mono" letter-spacing="1.15">SOFTWARE ENGINEERING</text></g></g></svg>

@@ -1,58 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t d">
-<title id="t">Munir — developer and automotive technology student</title>
-<desc id="d">Minimal editorial-style animated GitHub profile banner with subtle orange orbit and moving signal dots.</desc>
-<defs>
-  <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111418"/><stop offset="1" stop-color="#1C2024"/></linearGradient>
-  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#DB895E" stop-opacity=".95"/><stop offset="1" stop-color="#DB895E" stop-opacity="0"/></linearGradient>
-  <clipPath id="clip"><rect x="1" y="1" width="1198" height="378" rx="20"/></clipPath>
-</defs>
-<style>
-  .serif{font-family:Georgia, 'Times New Roman',serif}
-  .sans{font-family:Arial,Helvetica,sans-serif}
-  .orbit{transform-origin:950px 190px;animation:spin 32s linear infinite}
-  .pulse{animation:pulse 3.7s ease-in-out infinite}
-  .travel{animation:trace 7s linear infinite}
-  .travel2{animation:trace 7s linear infinite 2.6s}
-  .line{stroke-dasharray:190;stroke-dashoffset:190;animation:draw 2s ease-out both}
-  .cursor{animation:blink 1.4s step-end infinite}
-  @keyframes spin{to{transform:rotate(360deg)}}
-  @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
-  @keyframes trace{0%{offset-distance:0%;opacity:0}10%{opacity:1}90%{opacity:1}100%{offset-distance:100%;opacity:0}}
-  @keyframes draw{to{stroke-dashoffset:0}}
-  @keyframes blink{50%{opacity:0}}
-  @media (prefers-reduced-motion: reduce){.orbit,.pulse,.travel,.travel2,.line,.cursor{animation:none!important}.line{stroke-dashoffset:0}}
-</style>
-<rect x="0.75" y="0.75" width="1198.5" height="378.5" rx="20" fill="url(#wash)" stroke="#454A49" stroke-width="1.5"/>
-<g clip-path="url(#clip)">
-  <g opacity=".48" stroke="#454C4A" stroke-width=".8">
-     <path d="M728 0V380 M794 0V380 M860 0V380 M926 0V380 M992 0V380 M1058 0V380 M1124 0V380"/>
-     <path d="M700 44H1200 M700 110H1200 M700 176H1200 M700 242H1200 M700 308H1200"/>
-  </g>
-  <path d="M720 309H1200" stroke="#454A49" stroke-width="1"/>
-  <g fill="none" stroke="#454A49" stroke-width="1.2">
-   <circle cx="950" cy="190" r="158"/><circle cx="950" cy="190" r="116"/><circle cx="950" cy="190" r="72"/>
-   <path d="M950 22V358 M782 190H1118" opacity=".7"/>
-  </g>
-  <g class="orbit">
-    <circle cx="950" cy="32" r="5.5" fill="#DB895E"/><circle cx="950" cy="32" r="13" fill="none" stroke="#DB895E" stroke-opacity=".42"/>
-    <path d="M950 28L950 14" stroke="#DB895E" stroke-width="2"/>
-  </g>
-  <circle cx="950" cy="190" r="43" fill="#DB895E" fill-opacity=".08" stroke="#DB895E" stroke-opacity=".52"/>
-  <circle cx="950" cy="190" r="11" fill="#DB895E" class="pulse"/>
-  <circle cx="950" cy="190" r="2.5" fill="#111418"/>
-  <path d="M746 320 Q838 260 908 330 T1080 308" fill="none" stroke="#DB895E" stroke-opacity=".75" stroke-width="1.3"/>
-  <path id="path" d="M746 320 Q838 260 908 330 T1080 308" fill="none" stroke="none"/>
-  <circle r="4.5" fill="#DB895E" style="offset-path:path('M746 320 Q838 260 908 330 T1080 308')" class="travel"/>
-  <circle r="2.5" fill="#DB895E" style="offset-path:path('M746 320 Q838 260 908 330 T1080 308')" class="travel2"/>
-  <rect x="61" y="46" width="9" height="9" rx="2" fill="#DB895E"/>
-  <text class="sans" x="84" y="55" font-size="14" font-weight="700" letter-spacing="4" fill="#B1B3AE">MUNIR / 01</text>
-  <path d="M61 82H655" stroke="#454A49"/>
-  <text class="serif" x="60" y="169" font-size="82" font-weight="400" letter-spacing="-3" fill="#F6F3EB">Muhd Munir<tspan fill="#DB895E">.</tspan></text>
-  <text class="sans" x="64" y="208" font-size="18.5" font-weight="500" fill="#F6F3EB" letter-spacing=".65">Developer <tspan fill="#DB895E">/</tspan> Automotive technology <tspan fill="#DB895E">/</tspan> Product-minded</text>
-  <text class="sans" x="64" y="251" font-size="18" fill="#B1B3AE">Building thoughtful interfaces and connected systems.</text>
-  <path class="line" d="M64 282H254" fill="none" stroke="url(#fade)" stroke-width="3" stroke-linecap="round"/>
-  <text class="sans" x="64" y="332" font-size="12" letter-spacing="3.1" fill="#B1B3AE">ENGINEERING IDEAS INTO EXPERIENCES</text>
-  <rect class="cursor" x="597" y="317" width="8" height="15" fill="#DB895E"/>
-  <text class="sans" x="1062" y="347" fill="#B1B3AE" font-size="11" letter-spacing="1.5">MY / 2026</text>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="1200" height="540" role="img" aria-label="Animated editorial hero: Muhd Munir, Software and AI Engineer, Co-Founder AWA Teknologi Indonesia"><defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#090F15"/><stop offset="1" stop-color="#111B22"/></linearGradient>
+ <linearGradient id="beam" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#77E4CC" stop-opacity="0"/><stop offset=".48" stop-color="#77E4CC" stop-opacity=".95"/><stop offset="1" stop-color="#77E4CC" stop-opacity="0"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#1D9A8B" stop-opacity=".25"/><stop offset="1" stop-color="#1D9A8B" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#29414B" stroke-width=".55"/></pattern>
+ <clipPath id="clip"><rect x="1" y="1" width="1198" height="538" rx="22"/></clipPath></defs><style>
+ .sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.serif{font-family:Georgia,'Times New Roman',serif}
+ .spin{transform-origin:960px 270px;animation:spin 36s linear infinite}.spinfast{transform-origin:960px 270px;animation:spin 18s linear infinite reverse}
+ .pulse{animation:pulse 3.4s ease-in-out infinite}.pulse2{animation:pulse 3.4s 1.7s ease-in-out infinite}
+ .blink{animation:blink 1.3s steps(1) infinite}.scan{animation:scan 8s ease-in-out infinite alternate}
+ .float{animation:float 4.5s ease-in-out infinite}.float2{animation:float 5.5s ease-in-out infinite reverse}
+ .dash{stroke-dasharray:6 12;animation:dash 15s linear infinite}.dashfast{stroke-dasharray:3 12;animation:dash 7s linear infinite}
+ .tracer{stroke-dasharray:22 450;animation:tracer 7s linear infinite}.sweep{animation:sweep 6s ease-in-out infinite alternate}
+ .rise{animation:rise 1.7s ease-out both}
+ .ticker{animation:slide 20s linear infinite}
+ @keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{0%,100%{opacity:.27}50%{opacity:1}}
+ @keyframes blink{50%{opacity:0}}@keyframes scan{to{transform:translateX(240px)}}
+ @keyframes float{50%{transform:translateY(-7px)}}@keyframes dash{to{stroke-dashoffset:-180}}
+ @keyframes tracer{to{stroke-dashoffset:-472}}@keyframes sweep{to{transform:translateX(130px)}}
+ @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+ @keyframes slide{to{transform:translateX(-490px)}}
+ @media(prefers-reduced-motion:reduce){.spin,.spinfast,.pulse,.pulse2,.blink,.scan,.float,.float2,.dash,.dashfast,.tracer,.sweep,.rise,.ticker{animation:none!important}}
+ </style>
+ <rect x="1" y="1" width="1198" height="538" rx="22" fill="url(#bg)" stroke="#29414B" stroke-width="1.5"/>
+ <g clip-path="url(#clip)"><rect x="0" y="0" width="1200" height="540" fill="url(#grid)" opacity=".46"/><circle cx="984" cy="276" r="276" fill="url(#halo)" class="pulse"/><rect x="0" y="0" width="7" height="540" fill="#77E4CC"/><g opacity=".56"><circle cx="979" cy="269" r="187" fill="none" stroke="#29414B" stroke-width="2"/><circle cx="979" cy="269" r="144" fill="none" stroke="#29414B" stroke-width="2"/><circle cx="979" cy="269" r="99" fill="none" stroke="#29414B" stroke-width="2"/></g><g class="spin"><circle cx="960" cy="270" r="200" fill="none" stroke="#77E4CC" stroke-width="2" stroke-dasharray="6 25" opacity=".65"/><path d="M960 70A200 200 0 0 1 1160 270" fill="none" stroke="#77E4CC" stroke-width="4"/></g><g class="spinfast"><circle cx="960" cy="270" r="160" fill="none" stroke="#B4FC94" stroke-width="3" stroke-dasharray="2 19" opacity=".44"/></g><circle cx="979" cy="269" r="47" fill="#0C272A" stroke="#77E4CC" stroke-opacity=".65"/><circle cx="979" cy="269" r="10" fill="#77E4CC" class="pulse"/><circle cx="979" cy="269" r="4" fill="#090F15"/><g class="float"><rect x="762" y="111" width="180" height="59" rx="10" fill="#121D25" stroke="#29414B"/><text x="781" y="134" fill="#92AAA9" font-size="11" font-weight="700" class="mono" >SIGNAL / 01</text><text x="781" y="155" fill="#77E4CC" font-size="17" font-weight="700" class="mono" >SYSTEMS ONLINE</text></g><g class="float2"><rect x="980" y="382" width="176" height="60" rx="10" fill="#121D25" stroke="#29414B"/><text x="998" y="405" fill="#92AAA9" font-size="11" font-weight="700" class="mono" >ENGINEERING</text><text x="998" y="427" fill="#77E4CC" font-size="16" font-weight="700" class="mono" >ALWAYS BUILDING</text></g><rect x="62" y="46" width="10" height="10" rx="2" fill="#77E4CC"/><text x="88" y="57" fill="#92AAA9" font-size="15" font-weight="700" class="mono" letter-spacing="2">MUNIR   /   DIGITAL ENGINEER</text><path d="M62 79L704 79" stroke="#29414B" stroke-width="1" opacity="1" fill="none"/><text x="58" y="200" fill="#ECF4F2" font-size="105" font-weight="700" class="sans" letter-spacing="-7" class="sans rise">MUHD</text><text x="55" y="315" fill="#ECF4F2" font-size="117" font-weight="700" class="sans" letter-spacing="-8" class="sans rise">MUNIR.</text><path d="M62 341H642" stroke="url(#beam)" stroke-width="3" class="sweep"/><text x="66" y="383" fill="#77E4CC" font-size="23" font-weight="700" class="mono" letter-spacing="1.1">SOFTWARE &amp; AI ENGINEER</text><text x="66" y="419" fill="#ECF4F2" font-size="22" font-weight="500" class="sans" >Co-Founder · AWA Teknologi Indonesia</text><text x="66" y="462" fill="#92AAA9" font-size="18" font-weight="400" class="sans" >Turning complex ideas into useful systems.</text><g><text x="65" y="503" fill="#92AAA9" font-size="13" font-weight="700" class="mono" letter-spacing="1.7">MALAYSIA  //  BUILDING FOR THE WORLD</text><circle cx="641" cy="497" r="5" fill="#77E4CC" class="blink"/></g></g></svg>
