@@ -1,196 +1,152 @@
 <!--
-  MUHD MUNIR — Editorial animated GitHub profile.
-  All visuals are self-hosted SVGs. No tracking, remote widgets or fake stats.
-  Motion respects prefers-reduced-motion.
+  MUHD MUNIR — Engineering profile / edition 09.5
+  Identity-led, self-hosted motion artwork, reduced-motion support.
+  No fake stats, no third-party widgets, no public repository showcase.
 -->
+
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-  <img src="assets/hero-light.svg" alt="Muhd Munir — Software and AI Engineer, Co-Founder of AWA Teknologi Indonesia" width="100%" />
-</picture>
-
-<br />
-
-<strong>Software &amp; AI Engineer</strong> &nbsp; · &nbsp; <strong>Co-Founder, AWA Teknologi Indonesia</strong>
-
-<br /><br />
-
-<a href="https://awatech.my.id"><strong>AWA TECHNOLOGY ↗</strong></a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="https://github.com/muhdmunir961-byte"><strong>GITHUB ↗</strong></a>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/signal-dark.svg" />
-  <img src="assets/signal-light.svg" alt="Animated specialties: Software Engineering, AI, Systems Design, Cloud Infrastructure, Automation and Product Thinking" width="100%" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+    <img src="assets/hero-light.svg" width="100%" alt="Muhd Munir — Software and AI Engineer, Co-Founder of AWA Teknologi Indonesia" />
+  </picture>
+  <br />
+  <br />
+  <a href="https://awatech.my.id"><strong>AWA TECHNOLOGY ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#the-engineer"><strong>ABOUT ↘</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#engineering-in-practice"><strong>EXPERTISE ↘</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#connect"><strong>CONNECT ↘</strong></a>
+  <br />
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/signal-dark.svg" />
+    <img src="assets/signal-light.svg" width="100%" alt="Research · Design · Engineer · Intelligence · Deploy · Evolve" />
+  </picture>
 </div>
 
 <br />
 
-## A little about me
+## 01 / The engineer
 
-Hey, I'm **Muhd Munir** — a **Software & AI Engineer**, **co-founder of AWA Teknologi Indonesia**, and a builder who enjoys the connection between great software, intelligent systems, and real-world engineering.
+I’m **Muhd Munir** — a **Software & AI Engineer** and **Co-Founder of AWA Teknologi Indonesia**.
 
-I work across the pieces that make digital products possible: thoughtful frontends, dependable backends, useful automation, connected hardware, and experimentation with AI. My automotive engineering background has shaped how I think about safety, feedback, constraints, and how systems behave outside a perfect demo.
+I’m drawn to problems that sit between **people, products, and complex systems**. I build across web applications, applied AI, automation, cloud services, and connected devices — with an eye for how everything works *together*, not just how one feature looks in isolation.
 
-> **My guiding idea:** technology should feel ambitious behind the scenes and effortless in the hands of the people using it.
+My background in **automotive engineering** brings a useful perspective: engineering decisions have consequences in the real world. Interfaces should communicate clearly. Systems should recover predictably. And good technology should make difficult things easier to do.
+
+> **A principle I build by:** Make sophisticated engineering feel simple to the person using it.
 
 <br />
+
+## 02 / Building with AWA
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/founder-dark.svg" />
-  <img src="assets/founder-light.svg" alt="AWA Teknologi Indonesia co-founder identity and animated technological orbit" width="100%" />
+  <img src="assets/founder-light.svg" width="100%" alt="AWA Teknologi Indonesia — Co-Founder" />
 </picture>
 
 <br />
 
-### AWA Teknologi Indonesia
+**Co-Founder — AWA Teknologi Indonesia**
 
-**Co-Founder · Software & AI Engineering**
+For me, being a founder means thinking beyond the code: defining worthwhile problems, balancing constraints, choosing practical architectures, and turning early concepts into useful experiences.
 
-AWA Teknologi Indonesia is part of my journey as a founder and engineer. I'm interested in building technology that is purposeful, practical, and resilient — from platforms and automation to AI-enabled experiences. I believe strong products come from the intersection of **engineering discipline**, **product thinking**, and **the courage to keep learning**.
+The work I’m interested in spans **software platforms, AI-enabled workflows, automation, and product engineering**. I value technology that is thoughtfully designed, realistic to operate, and capable of evolving with the people who use it.
 
-**My focus:** Engineering architecture · AI-enabled workflows · Software platforms · End-to-end product execution.
-
-<br />
-
-## The person behind the terminal
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
-  <img src="assets/terminal-light.svg" alt="Animated code editor showing my identity, engineering roles and current build mode" width="100%" />
-</picture>
+**Explore the company:** [awatech.my.id ↗](https://awatech.my.id)
 
 <br />
 
-## What I do
+## 03 / Engineering in practice
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg" />
-  <img src="assets/focus-light.svg" alt="Technical capabilities shown in animated cards: AI engineering, software systems, cloud infrastructure, IoT and automation" width="100%" />
+  <img src="assets/focus-light.svg" width="100%" alt="Four engineering focus areas: AI, software, cloud and IoT" />
 </picture>
 
 <br />
 
-I don't believe in building technology just because it's possible. The best solutions start with a clear problem, then align the **architecture, performance, experience and maintainability** around that problem.
-
-| Discipline | What I enjoy working on |
+| Discipline | Where I focus |
 | :--- | :--- |
-| **AI Engineering** | LLM-powered experiences, agent workflows, AI integrations and practical automation |
-| **Software Engineering** | Full-stack architecture, maintainable services, thoughtful APIs and reliable data flows |
-| **Web & Product** | Purposeful UX, readable interfaces, responsive design and performance |
-| **Cloud & Systems** | Deployments, real-time communication, environment configuration and observability |
-| **Connected Technology** | ESP32-based integrations, telemetry, hardware–software interfaces and feedback loops |
+| **Applied AI** | LLM integrations, practical agents, tool orchestration, automation and human-in-the-loop workflows |
+| **Software systems** | Backend services, APIs, data flows, full-stack web platforms and thoughtful frontend experiences |
+| **Cloud & infrastructure** | Deployment pipelines, service configuration, reliability, real-time connections and operational workflows |
+| **Connected engineering** | ESP32-based systems, device telemetry, safety-oriented interfaces and monitoring dashboards |
+
+I care as much about the **experience of using a system** as I do about its architecture. A good result needs both.
 
 <br />
 
-## My technical landscape
+## 04 / Behind the terminal
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
+  <img src="assets/terminal-light.svg" width="100%" alt="Animated engineering terminal with practical principles and build cycle" />
+</picture>
+
+<br />
+
+The best software doesn’t come from using the most tools. It comes from understanding the problem, making deliberate trade-offs, and iterating until the experience makes sense.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img src="assets/stack-light.svg" alt="Animated overview of technology areas: TypeScript, JavaScript, Python, C++, React, Next.js, Node.js, PostgreSQL, Cloudflare, Coolify and ESP32" width="100%" />
+  <img src="assets/stack-light.svg" width="100%" alt="Technology toolkit spanning interfaces, AI and systems infrastructure" />
 </picture>
 
 <br />
 
-I choose tools around the job, not the other way around. My approach is to understand the constraints first, design the pieces clearly, and keep the final result straightforward to maintain.
+**Also working with:** JavaScript · Fastify · Prisma · Arduino / C++ · WebSockets · Git & GitHub · Cloud deployment tooling.
 
-```txt
-SYSTEM PRINCIPLES
-──────────────────────────────────────────────────────
-  01   Understand the problem before picking the stack
-  02   Design for people, not just the happy path
-  03   Make the complex understandable
-  04   Automate repetition; retain human judgement
-  05   Build → test → measure → improve
-──────────────────────────────────────────────────────
-```
+*I choose the stack to suit the constraints — not the other way around.*
 
 <br />
 
-## How I think about building
+## 05 / A systems mindset
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/network-dark.svg" />
-  <img src="assets/network-light.svg" alt="Animated engineering cycle linking ideas, research, design, implementation, testing, iteration, shipping and learning" width="100%" />
+  <img src="assets/network-light.svg" width="100%" alt="Engineering process: discover, architect, build, validate, iterate" />
 </picture>
 
 <br />
 
-### Thinking in systems
-
-A compelling experience isn't just a polished screen. It's a coordinated system: the data should be trustworthy, the backend should be predictable, the interface should respond clearly, and the operational path should be practical.
-
-I like working in the overlap between **software**, **AI**, **automation**, **product design**, and **engineering**. Each makes the others better.
-
-<br />
-
-## Currently exploring
-
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**01 — Agentic AI**
-
-Practical AI agents, workflow orchestration, reliable tool use, and systems where intelligence assists real work.
-
-</td>
-<td width="50%" valign="top">
-
-**02 — Real-time products**
-
-Responsive dashboards, streaming data, device communication, and low-latency experiences.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 — Engineering infrastructure**
-
-Developer workflows, deployment reliability, service observability, and clean integrations.
-
-</td>
-<td width="50%" valign="top">
-
-**04 — Human-centered software**
-
-Simple interfaces for complex technology, accessible design, and better ways to interact with systems.
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top"><strong>Clarity first.</strong><br /><br />Understand the user, the context, and the real cost of a bad assumption.</td>
+    <td width="33%" valign="top"><strong>Architecture with intent.</strong><br /><br />Prefer legible systems, measured complexity, and maintainable choices.</td>
+    <td width="33%" valign="top"><strong>Delivery matters.</strong><br /><br />Test the edges, learn from feedback, and ship improvements that count.</td>
+  </tr>
 </table>
 
 <br />
 
-## Beyond the code
+### What I’m exploring now
 
-I care about the entrepreneurial side of engineering just as much as the technical work. Defining the right problem, prioritizing limited resources, thinking through how something will grow, and making decisions with the people using it in mind — that's part of what being a builder means to me.
-
-**Curiosity makes me start. Discipline makes me finish. Iteration makes it better.**
+- **Agentic AI:** systems that use tools responsibly to assist with actual work.
+- **Real-time experiences:** clear, responsive interfaces connected to live information.
+- **Engineering platforms:** ways to simplify development, deployment, and operations.
+- **Hardware meets software:** translating device signals into useful human feedback.
 
 <br />
 
-## Connect
+## 06 / Connect
 
-If you're interested in **software engineering, applied AI, digital products, automation, or engineering-led ideas**, feel free to connect through my GitHub profile or explore AWA's website.
+I’m interested in conversations about **software architecture, applied AI, thoughtful products, automation, and building technology across disciplines**.
 
 <div align="center">
-  <a href="https://awatech.my.id">Company website</a>
-  &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://github.com/muhdmunir961-byte">GitHub profile</a>
-
-  <br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
-  <img src="assets/footer-light.svg" alt="Let's build something meaningful — Muhd Munir, AWA Teknologi Indonesia" width="100%" />
-</picture>
-
-<sub>Purposeful systems. Thoughtful experiences. Always learning.</sub>
+  <a href="https://awatech.my.id"><strong>AWA Teknologi Indonesia ↗</strong></a>
+  &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/muhdmunir961-byte"><strong>GitHub ↗</strong></a>
+  <br />
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+    <img src="assets/footer-light.svg" width="100%" alt="Let's make it useful — Muhd Munir" />
+  </picture>
+  <br />
+  <sub>ENGINEERING WITH INTENT · ALWAYS LEARNING · ALWAYS BUILDING</sub>
 </div>
 
-<!-- Repo showcase intentionally omitted by request. Public repository and pinned sections are controlled by GitHub outside the README. -->
+<!-- README deliberately does not feature repository cards, rankings, or fabricated performance metrics. -->
