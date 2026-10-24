@@ -1,25 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="1200" height="540" role="img" aria-label="Animated editorial hero: Muhd Munir, Software and AI Engineer, Co-Founder AWA Teknologi Indonesia"><defs>
- <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#F5F6F1"/><stop offset="1" stop-color="#ECF2EE"/></linearGradient>
- <linearGradient id="beam" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#168D7D" stop-opacity="0"/><stop offset=".48" stop-color="#168D7D" stop-opacity=".95"/><stop offset="1" stop-color="#168D7D" stop-opacity="0"/></linearGradient>
- <radialGradient id="halo"><stop stop-color="#9FE2CE" stop-opacity=".25"/><stop offset="1" stop-color="#9FE2CE" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#C5D6D2" stroke-width=".55"/></pattern>
- <clipPath id="clip"><rect x="1" y="1" width="1198" height="538" rx="22"/></clipPath></defs><style>
- .sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.serif{font-family:Georgia,'Times New Roman',serif}
- .spin{transform-origin:960px 270px;animation:spin 36s linear infinite}.spinfast{transform-origin:960px 270px;animation:spin 18s linear infinite reverse}
- .pulse{animation:pulse 3.4s ease-in-out infinite}.pulse2{animation:pulse 3.4s 1.7s ease-in-out infinite}
- .blink{animation:blink 1.3s steps(1) infinite}.scan{animation:scan 8s ease-in-out infinite alternate}
- .float{animation:float 4.5s ease-in-out infinite}.float2{animation:float 5.5s ease-in-out infinite reverse}
- .dash{stroke-dasharray:6 12;animation:dash 15s linear infinite}.dashfast{stroke-dasharray:3 12;animation:dash 7s linear infinite}
- .tracer{stroke-dasharray:22 450;animation:tracer 7s linear infinite}.sweep{animation:sweep 6s ease-in-out infinite alternate}
- .rise{animation:rise 1.7s ease-out both}
- .ticker{animation:slide 20s linear infinite}
- @keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{0%,100%{opacity:.27}50%{opacity:1}}
- @keyframes blink{50%{opacity:0}}@keyframes scan{to{transform:translateX(240px)}}
- @keyframes float{50%{transform:translateY(-7px)}}@keyframes dash{to{stroke-dashoffset:-180}}
- @keyframes tracer{to{stroke-dashoffset:-472}}@keyframes sweep{to{transform:translateX(130px)}}
- @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
- @keyframes slide{to{transform:translateX(-490px)}}
- @media(prefers-reduced-motion:reduce){.spin,.spinfast,.pulse,.pulse2,.blink,.scan,.float,.float2,.dash,.dashfast,.tracer,.sweep,.rise,.ticker{animation:none!important}}
- </style>
- <rect x="1" y="1" width="1198" height="538" rx="22" fill="url(#bg)" stroke="#C5D6D2" stroke-width="1.5"/>
- <g clip-path="url(#clip)"><rect x="0" y="0" width="1200" height="540" fill="url(#grid)" opacity=".46"/><circle cx="984" cy="276" r="276" fill="url(#halo)" class="pulse"/><rect x="0" y="0" width="7" height="540" fill="#168D7D"/><g opacity=".56"><circle cx="979" cy="269" r="187" fill="none" stroke="#C5D6D2" stroke-width="2"/><circle cx="979" cy="269" r="144" fill="none" stroke="#C5D6D2" stroke-width="2"/><circle cx="979" cy="269" r="99" fill="none" stroke="#C5D6D2" stroke-width="2"/></g><g class="spin"><circle cx="960" cy="270" r="200" fill="none" stroke="#168D7D" stroke-width="2" stroke-dasharray="6 25" opacity=".65"/><path d="M960 70A200 200 0 0 1 1160 270" fill="none" stroke="#168D7D" stroke-width="4"/></g><g class="spinfast"><circle cx="960" cy="270" r="160" fill="none" stroke="#419967" stroke-width="3" stroke-dasharray="2 19" opacity=".44"/></g><circle cx="979" cy="269" r="47" fill="#E1F2E9" stroke="#168D7D" stroke-opacity=".65"/><circle cx="979" cy="269" r="10" fill="#168D7D" class="pulse"/><circle cx="979" cy="269" r="4" fill="#F5F6F1"/><g class="float"><rect x="762" y="111" width="180" height="59" rx="10" fill="#FFFFFF" stroke="#C5D6D2"/><text x="781" y="134" fill="#567277" font-size="11" font-weight="700" class="mono" >SIGNAL / 01</text><text x="781" y="155" fill="#168D7D" font-size="17" font-weight="700" class="mono" >SYSTEMS ONLINE</text></g><g class="float2"><rect x="980" y="382" width="176" height="60" rx="10" fill="#FFFFFF" stroke="#C5D6D2"/><text x="998" y="405" fill="#567277" font-size="11" font-weight="700" class="mono" >ENGINEERING</text><text x="998" y="427" fill="#168D7D" font-size="16" font-weight="700" class="mono" >ALWAYS BUILDING</text></g><rect x="62" y="46" width="10" height="10" rx="2" fill="#168D7D"/><text x="88" y="57" fill="#567277" font-size="15" font-weight="700" class="mono" letter-spacing="2">MUNIR   /   DIGITAL ENGINEER</text><path d="M62 79L704 79" stroke="#C5D6D2" stroke-width="1" opacity="1" fill="none"/><text x="58" y="200" fill="#172B30" font-size="105" font-weight="700" class="sans rise" letter-spacing="-7">MUHD</text><text x="55" y="315" fill="#172B30" font-size="117" font-weight="700" class="sans rise" letter-spacing="-8">MUNIR.</text><path d="M62 341H642" stroke="url(#beam)" stroke-width="3" class="sweep"/><text x="66" y="383" fill="#168D7D" font-size="23" font-weight="700" class="mono" letter-spacing="1.1">SOFTWARE &amp; AI ENGINEER</text><text x="66" y="419" fill="#172B30" font-size="22" font-weight="500" class="sans" >Co-Founder · AWA Teknologi Indonesia</text><text x="66" y="462" fill="#567277" font-size="18" font-weight="400" class="sans" >Turning complex ideas into useful systems.</text><g><text x="65" y="503" fill="#567277" font-size="13" font-weight="700" class="mono" letter-spacing="1.7">MALAYSIA  //  BUILDING FOR THE WORLD</text><circle cx="641" cy="497" r="5" fill="#168D7D" class="blink"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="Muhd Munir — Software and AI Engineer, Co-Founder of AWA Teknologi Indonesia"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#F8F6F0"/><stop offset="1" stop-color="#EDEFE9"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#CCD9D4" stroke-width=".65" opacity=".5"/></pattern><clipPath id="clip"><rect x="1" y="1" width="1198" height="558" rx="20"/></clipPath></defs><style>
+.s{font-family:Arial,Helvetica,sans-serif}.m{font-family:'Courier New',monospace}.ser{font-family:Georgia,'Times New Roman',serif}
+.k{animation:rotate 34s linear infinite;transform-box:fill-box;transform-origin:center}.k2{animation:rotate 17s linear infinite reverse;transform-box:fill-box;transform-origin:center}
+.b{animation:breathe 3.4s ease-in-out infinite}.b2{animation:breathe 3.4s ease-in-out 1.7s infinite}
+.float{animation:float 5.4s ease-in-out infinite}.scan{animation:slide 7s ease-in-out infinite alternate}
+.dash{stroke-dasharray:7 14;animation:dash 7s linear infinite}.draw{stroke-dasharray:400;stroke-dashoffset:400;animation:draw 3s ease-out forwards}
+.rise{animation:rise 1.3s ease-out both}.r2{animation:rise 1.3s .3s ease-out both}.cursor{animation:blink 1.3s steps(1) infinite}
+@keyframes rotate{to{transform:rotate(360deg)}}@keyframes breathe{0%,100%{opacity:.3}50%{opacity:1}}@keyframes float{50%{transform:translateY(-9px)}}@keyframes slide{to{transform:translateX(240px)}}
+@keyframes dash{to{stroke-dashoffset:-126}}@keyframes draw{to{stroke-dashoffset:0}}@keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.k,.k2,.b,.b2,.float,.scan,.dash,.draw,.rise,.r2,.cursor{animation:none!important}.draw{stroke-dashoffset:0}}
+</style><rect x="1" y="1" width="1198" height="558" rx="20" fill="url(#bg)" stroke="#CCD9D4" stroke-width="1.5"/><g clip-path="url(#clip)"><rect width="1200" height="560" fill="url(#grid)" opacity=".45"/>
+ <path d="M0 0H12V560H0" fill="#167B70"/>
+ <path d="M65 90H650" stroke="#CCD9D4" stroke-width="1.5"/>
+ <rect x="65" y="49" width="13" height="13" rx="2" fill="#167B70"/>
+ <text x="92" y="61" font-size="16" font-weight="700" letter-spacing="4" class="m" fill="#516563">ENGINEERING / FOUNDER / 2026</text>
+ <g class="rise">
+ <text x="54" y="212" font-family="Arial Black,Arial,sans-serif" font-size="120" font-weight="900" letter-spacing="-6" fill="#17292A">MUHD</text>
+ <text x="54" y="327" font-family="Arial Black,Arial,sans-serif" font-size="120" font-weight="900" letter-spacing="-6" fill="#17292A">MUNIR<tspan fill="#167B70">.</tspan></text></g>
+ <text x="66" y="381" font-size="21" font-weight="700" class="m" fill="#167B70">SOFTWARE &amp; AI ENGINEER</text>
+ <text x="66" y="415" font-size="19" class="s" fill="#516563">Co-Founder — AWA Teknologi Indonesia</text>
+ <path class="draw" d="M65 449H462" stroke="#AA6531" stroke-width="3" fill="none"/>
+ <text x="65" y="488" font-size="15" letter-spacing="3" class="m" fill="#516563">IDEATE  /  ENGINEER  /  SHIP</text>
+ <g transform="translate(945 266)">
+  <circle r="180" fill="none" stroke="#CCD9D4" stroke-width="1.5"/>
+  <circle r="136" fill="none" stroke="#CCD9D4"/>
+  <circle r="93" fill="none" stroke="#CCD9D4" opacity=".7"/>
+  <g class="k"><circle r="180" fill="none" stroke="#167B70" stroke-width="4" stroke-dasharray="85 1046"/><circle cx="180" r="9" fill="#167B70"/></g>
+  <g class="k2"><circle r="128" fill="none" stroke="#AA6531" stroke-width="2" stroke-dasharray="9 29"/><circle cx="-128" r="5" fill="#AA6531"/></g>
+  <path d="M-160 0H160M0-162V162" stroke="#CCD9D4" opacity=".5"/>
+  <circle r="70" fill="#E0EEE9" stroke="#167B70" stroke-opacity=".75" stroke-width="2"/>
+  <text x="0" y="20" text-anchor="middle" font-size="78" font-weight="900" class="s" fill="#17292A">M</text>
+  <circle cx="0" cy="-99" r="3" fill="#167B70" class="b"/>
+ </g>
+ <g class="float"><rect x="719" y="88" width="176" height="43" rx="10" fill="#FFFFFF" stroke="#CCD9D4"/><circle cx="738" cy="110" r="4" fill="#167B70" class="b"/><text x="752" y="116" class="m" font-size="13" fill="#17292A">BUILDER MODE</text></g>
+ <g class="float"><rect x="975" y="426" width="173" height="45" rx="10" fill="#FFFFFF" stroke="#CCD9D4"/><text x="995" y="454" class="m" font-size="12" fill="#516563">MY  /  ID  /  GLOBAL</text></g>
+ <text x="1110" y="53" class="m" font-size="14" text-anchor="end" fill="#AA6531">MM / 001</text>
+ </g></svg>
